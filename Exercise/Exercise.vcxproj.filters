@@ -21,5 +21,8 @@
     <ClCompile Include="reference2.3.1exc.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="reference2.3.2-2.20exc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
